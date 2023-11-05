@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257619065895",
+    "project_id": "mobilicisassignmentapp",
+    "storage_bucket": "mobilicisassignmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257619065895:android:c71a33b2b68196f70d6202",
+        "android_client_info": {
+          "package_name": "com.srsoft.mobilicisassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOKaLyAsF4uBRl_CfDR-fgAA_RkSauxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
